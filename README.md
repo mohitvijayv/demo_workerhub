@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # demo_workerhub
 
-A new Flutter application.
+A new Flutter application by Mohit.
 
 ## Getting Started
 
