@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # demo_workerhub
 
 A new Flutter application by Mohit.
@@ -17,4 +16,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 =======
 # workerhubapp_demo
->>>>>>> bc06ee5cdd9ba5e151a5d28b189ff619e33a2366
